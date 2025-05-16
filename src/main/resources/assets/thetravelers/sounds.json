@@ -1,0 +1,30 @@
+{
+  "gousha_grumble": {
+    "subtitle": "subtitles.thetravelers.gousha_grumble",
+    "sounds": [
+      "thetravelers:mob/gousha/grumble1",
+      "thetravelers:mob/gousha/grumble2",
+      "thetravelers:mob/gousha/grumble3"
+    ]
+  },
+  "gousha_fart": {
+    "subtitle": "subtitles.thetravelers.gousha_fart",
+    "sounds": [
+      "thetravelers:mob/gousha/fart1",
+      "thetravelers:mob/gousha/fart2"
+    ]
+  },
+  "gousha_hurt": {
+    "subtitle": "subtitles.thetravelers.gousha_hurt",
+    "sounds": [
+      "thetravelers:mob/gousha/hurt1",
+      "thetravelers:mob/gousha/hurt2"
+    ]
+  },
+  "gousha_death": {
+    "subtitle": "subtitles.thetravelers.gousha_death",
+    "sounds": [
+      "thetravelers:mob/gousha/death"
+    ]
+  }
+}
